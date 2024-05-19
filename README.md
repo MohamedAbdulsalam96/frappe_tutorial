@@ -5,11 +5,11 @@ An end-to-end Frappe course.
 
 The course will include:
 
-- [ ] Introduction to Frappe
+- [x] Introduction to Course ([Link](/frappe_tutorial/docs/Introduction_to_Course.md))
 
   - [ ] What is Frappe?
   - [ ] Setting up Frappe locally
-  - [ ] Basic introduction to Bench CLI
+  - [ ] Basic introduction to bench CLI
   - [ ] Creating a Frappe app and installing it on a site
   - [ ] Frappe folder structure
 
@@ -18,10 +18,10 @@ The course will include:
 
   - [ ] Introduction to Doctype
   - [ ] Doctype and modules
-    - [ ] What is a Doctype?
+    - [ ] What is a doctype?
     - [ ] What are modules?
-    - [ ] Core Doctype
-    - [ ] Creating a module and Doctype in Frappe
+    - [ ] Core doctype
+    - [ ] Creating a module and doctype in Frappe
     - [ ] Doctype fields 
     - [ ] Child table
     - [ ] Customizing forms
@@ -32,6 +32,7 @@ The course will include:
 - [ ] Extending Default Doctype Functionality
 
   - [ ] How documents are saved in Frappe?
+  - [ ] Basic of hooks in Frappe
   - [ ] Doc events and their use
   - [ ] Creating the first doc event
   - [ ] Frappe database API
@@ -40,7 +41,7 @@ The course will include:
   - [ ] Doc event execution order
   - [ ] Overwriting a class in Frappe
   - [ ] Doc event vs class overwrite
-  - [ ] How to change any default function in Frappe? Explained monkey patching
+  - [ ] How to change any default function in Frappe? Explained monkey patching.
 
 - [ ] Asset Management in Frappe
 
@@ -57,8 +58,8 @@ The course will include:
     - [ ] Adding custom section in Frappe
   - [ ] Adding a doctype_list_js file
     - [ ] Adding custom button in list view
-  - [ ] Frappe JS basic divide
-  - [ ] Adding custom JS in Frappe
+  - [ ] Frappe JS object
+  - [ ] Adding custom JS in Frappe (DOM)
 
 - [ ] Page API in Frappe
 
@@ -99,7 +100,7 @@ The course will include:
 - [ ] Advanced in Frappe
     - [ ] Role and user permissions in Frappe
     - [ ] RQ Job List, Error log DocType
-    - [ ] Auto repent in Frappe
+    - [ ] Auto-rept in Frappe
     - [ ] File API in Frappe
 
 #### License
