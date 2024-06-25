@@ -2,17 +2,15 @@
 
 An end-to-end Frappe course.
 
-
 The course will include:
 
 - [x] Introduction to Course ([Link](/frappe_tutorial/docs/Introduction_to_Course.md))
 
-  - [x] What is Frappe? ([Link](/frappe_tutorial/docs/Introduction_to_Frappe.md))
-  - [ ] Setting up Frappe locally
+  - [x] Introduction to Frappe ([Link](/frappe_tutorial/docs/Introduction_to_Frappe.md))
+  - [x] Setting up Frappe locally ([Link](/frappe_tutorial/docs/Setting_up_frappe_locally.md))
   - [ ] Basic introduction to bench CLI
   - [ ] Creating a Frappe app and installing it on a site
   - [ ] Frappe folder structure
-
 
 - [ ] Doctype
 
@@ -22,7 +20,7 @@ The course will include:
     - [ ] What are modules?
     - [ ] Core doctype
     - [ ] Creating a module and doctype in Frappe
-    - [ ] Doctype fields 
+    - [ ] Doctype fields
     - [ ] Child table
     - [ ] Customizing forms
     - [ ] Export customizations in Frappe
@@ -98,10 +96,10 @@ The course will include:
   - [ ] Creating a custom bench command with Frappe
 
 - [ ] Advanced in Frappe
-    - [ ] Role and user permissions in Frappe
-    - [ ] RQ Job List, Error log DocType
-    - [ ] Auto-rept in Frappe
-    - [ ] File API in Frappe
+  - [ ] Role and user permissions in Frappe
+  - [ ] RQ Job List, Error log DocType
+  - [ ] Auto-rept in Frappe
+  - [ ] File API in Frappe
 
 #### License
 
