@@ -7,7 +7,7 @@ The course will include:
 
 - [x] Introduction to Course ([Link](/frappe_tutorial/docs/Introduction_to_Course.md))
 
-  - [ ] What is Frappe?
+  - [x] What is Frappe? ([Link](/frappe_tutorial/docs/Introduction_to_Frappe.md))
   - [ ] Setting up Frappe locally
   - [ ] Basic introduction to bench CLI
   - [ ] Creating a Frappe app and installing it on a site
